@@ -5,7 +5,8 @@ This repository contains the scientific article written as part of my internship
 
 ## Contents
 - first draft of the article
-- seconde draft of the article
+- second draft of the article
+- draft proposed to the ERK 
 - a try for the right way to arrange the article
 - all the figures that I decided to put in
   
